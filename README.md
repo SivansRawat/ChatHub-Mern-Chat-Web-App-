@@ -30,7 +30,7 @@ please open an issue first to discuss what you would like to change.
 
 ### Tutorial Video
 
-[Chat-Hub Tutorial Video]  https://drive.google.com/file/d/1WsILyF1Jamx_wu7PywV7rGGGGBR1jL_v/view?usp=sharing
+[Chat-Hub Tutorial Video](screenshots/Chat-Hub%20Tutorial%20Video.mp4)
 
 
 ## Features
